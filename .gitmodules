@@ -1,0 +1,3 @@
+[submodule "libs/NeclorCommon"]
+	path = libs/NeclorCommon
+	url = git@github.com:neclor/csharp-common.git
